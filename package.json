@@ -1,0 +1,25 @@
+{
+  "name": "ignorant-rants",
+  "version": "1.0.0",
+  "description": "Podcast Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbywws/ignorantRants.git"
+  },
+  "author": "Bobby Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbywws/ignorantRants/issues"
+  },
+  "homepage": "https://github.com/bobbywws/ignorantRants#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.10",
+    "morgan": "^1.7.0"
+  }
+}

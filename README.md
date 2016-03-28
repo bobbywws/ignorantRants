@@ -1,0 +1,1 @@
+This is the website created for a friends' podcast called Ignorant Rants. There will be the ability for users to sign in, comment on stuff, share to social media, and for admins to add new content.

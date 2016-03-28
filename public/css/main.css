@@ -1,0 +1,60 @@
+body {
+	background-color: #3A3847;
+	margin: 0px;
+}
+
+@font-face {
+	font-family: mainFont;
+	src: url("./fonts/hell.ttf");
+}
+
+.title {
+	font-family: mainFont;
+}
+
+.header {
+	background-color: gray;
+	padding: 0px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.logoHead {
+	width: 300px;
+	height: 250px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.socialMediaHead {
+	width: 57px;
+	height: 57px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar {
+	background-color: #B1C4FA;
+	color: black;
+	border-radius: 0px;
+	border: none;
+}
+
+.footer {
+	background-color: gray;
+	color: white;
+	height: 80px;
+	line-height: 80px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.footerLink {
+	vertical-align: middle;
+	margin-bottom: 0px;
+}
+
+.footerSocial {
+	display: inline;
+	padding: 0px;
+}
